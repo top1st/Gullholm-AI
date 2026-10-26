@@ -1,0 +1,6 @@
+AI agent answer.
+
+[The transcript summary step]: is the part of creating magic minutes of the meeting summary with AI agent in personal mode or team meeting mode.
+
+[a missing null check on transcripts with no speaker data]: transcript was have some hallucination and when I added fitter for it. I generated null part with non-speaking data.
+
